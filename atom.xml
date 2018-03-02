@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://thugavin.github.io/"/>
-  <updated>2018-03-01T02:26:42.000Z</updated>
+  <updated>2018-03-02T02:34:04.000Z</updated>
   <id>https://thugavin.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>透彻解析区块链、比特币、ICO</title>
+    <link href="https://thugavin.github.io/2018/03/02/%E9%80%8F%E5%BD%BB%E8%A7%A3%E6%9E%90%E5%8C%BA%E5%9D%97%E9%93%BE%E3%80%81%E6%AF%94%E7%89%B9%E5%B8%81%E3%80%81ICO/"/>
+    <id>https://thugavin.github.io/2018/03/02/透彻解析区块链、比特币、ICO/</id>
+    <published>2018-03-02T02:32:47.000Z</published>
+    <updated>2018-03-02T02:34:04.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="互联网" scheme="https://thugavin.github.io/categories/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+    
+      <category term="区块链" scheme="https://thugavin.github.io/categories/%E4%BA%92%E8%81%94%E7%BD%91/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
+    
+    
+      <category term="区块链" scheme="https://thugavin.github.io/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/"/>
+    
+      <category term="比特币" scheme="https://thugavin.github.io/tags/%E6%AF%94%E7%89%B9%E5%B8%81/"/>
+    
+      <category term="ICO" scheme="https://thugavin.github.io/tags/ICO/"/>
+    
+  </entry>
   
   <entry>
     <title>产品力50条</title>
